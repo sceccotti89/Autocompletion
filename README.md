@@ -1,4 +1,4 @@
 # Autocompletion
 
 
-Laboratory on Algorithm for Big Data project
+Project for Laboratory on Algorithm for Big Data.
